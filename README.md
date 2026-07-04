@@ -1,2 +1,2 @@
 # Release-builds
-OTA builds for Z5P
+You can download all builds here.
