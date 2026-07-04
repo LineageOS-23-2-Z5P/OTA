@@ -1,2 +1,2 @@
-# Release-builds
+# OTA
 You can download all builds here.
